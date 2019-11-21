@@ -15,3 +15,11 @@ We pick the last element as pivot.
 Time Complexity: O(nlogn)
 
 By far the above two sorting algorithms are best used in industry for their complexity.
+
+# Must-know-DS Implementation
+
+Here we implement 
+1. queue using stacks
+2. stacks using queue
+
+All in O(N) operation and these are important questionarre. 
